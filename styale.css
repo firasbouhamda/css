@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+  }
+ .h2{
+     color-interpolation-filters: red
+     ;
+ }
+h1{
+    color: red;
+	font-family: roboto;
+	text-align: center;
+}
+a{
+    color: rgb(5, 119, 39);
+	font-family: roboto;
+    text-align: center;
+    padding: .5em;
+text-align: center;
+
+}
+img {
+    border-radius: 50%;
+    color-interpolation-filters: center;
+  }
+  #fname{
+    border-bottom-style: dotted;
+}
+#lname{
+    border-bottom-style: dotted;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#subject{
+    border-radius: 2px;
+}
