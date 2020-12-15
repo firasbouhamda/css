@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-  }
+    font-family: 'Roboto', sans-serif;
+}
   
   body {
     background-color: #f1f1f1;
     padding: 20px;
-    font-family: Arial;
+    font-family:roboto;
   }
  .h2{
      color-interpolation-filters: red
@@ -14,7 +14,7 @@
  }
 h1{
     color: red;
-	font-family: roboto;
+    font-family: 'Roboto', sans-serif;
 	text-align: center;
 }
 a{
